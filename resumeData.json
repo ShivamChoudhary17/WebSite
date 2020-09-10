@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Shivam Choudhary",
+    "occupation": "Developer and loves to Learn",
+    "description": "Love to build",
+    "image": "avatar.jpg",
+    "bio": " i'm Shivam Choudhary, love to solve Machine Learning and its subfield(Deep Learning)problem's. I can handle missing values and loves to play with DataSets, plot them and learn new features from them. I love to watch animes(DBZ), build new websites and listen mangas.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shivamchoudhary2k@gmail.com",
+    "phone": "+91 **********",
+    "address": {
+      "street": "Institute of Technical Education and Research, Boy's Hostel No. 10, Odisha 751030 India",
+      "city": "BBS",
+      "state": "India",
+      "zip": "751030"
+    },
+    "website": "+++++++++",
+    "resumedownload": "https://github.com/ShivamChoudhary17",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shivamkumar.kumar.549668/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/theshivamchoudhary/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shivamchoudhary3690/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ShivamChoudhary17",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Institute of Technical Education and Research",
+        "degree": "Bachelor of Technology",
+        "graduated": "2019-2023",
+        "description": "Graduated with skills"
+      }
+    ],
+    "work": [],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Titanic DataSet",
+        "category": "Titanic DataSet(Jupyter Notebook, Numpy, Matplotlib, Sklearn, Pandas)",
+        "image": "titanic.png",
+        "url": "https://github.com/ShivamChoudhary17/Data-Science/blob/master/EDA/EDA.ipynb"
+      },
+      {
+        "title": "Feature Engg",
+        "category": "Different Way to do Feature Engg",
+        "image": "pic.jpg",
+        "url": "https://github.com/ShivamChoudhary17/Data-Science/tree/master/Feature%20Engg"
+      },
+      {
+        "title": "Spotify Clone with React",
+        "category": "Spotify Clone built with ReactJS",
+        "image": "Spotify.png",
+        "url": "https://github.com/ShivamChoudhary17/Web/tree/master/public"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+  }
